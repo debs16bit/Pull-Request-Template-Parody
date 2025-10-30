@@ -1,0 +1,2 @@
+# Ideas
+Consolidate redundant state variables in user module
